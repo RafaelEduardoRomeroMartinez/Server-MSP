@@ -2135,80 +2135,502 @@ login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzKzAqAAA
 
 TUNNELS
 forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
- load latest tunnels
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.13): 1723140265806 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723140369159 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzKdezAAAAAQAAAAEAAAAAAAAAAM9rDyzOaupQpSSOqA_7QZhqvPSDgn3tFXduIqZkslYe
-
-TUNNELS
-forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1723140268930 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzKdezAAAAAQAAAAEAAAAAAAAAAM9rDyzOaupQpSSOqA_7QZhqvPSDgn3tFXduIqZkslYe
-
-TUNNELS
-forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1723140272010 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzKdezAAAAAQAAAAEAAAAAAAAAAM9rDyzOaupQpSSOqA_7QZhqvPSDgn3tFXduIqZkslYe
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzK2tvAAAAAQAAAAEAAAAAAAAAACGn4GZbH44C3knCjaCNI34xWpMiAqDftX8cfbKcT-2d
 
 TUNNELS
 forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.13): 1723140287122 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723140384335 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzKir4AAAAAQAAAAEAAAAAAAAAAAp8b91VrVR68JENEkekbJob6d-fqHHnZPADZNJ9_9HU
-
-TUNNELS
-forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.13): 1723140302329 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzKmZeAAAAAQAAAAEAAAAAAAAAAGL2QXoeKHZ93XJNCWECkNqRHopOXbMRgWJdzrebeSPQ
-
-TUNNELS
-forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1723140305449 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzKmZeAAAAAQAAAAEAAAAAAAAAAGL2QXoeKHZ93XJNCWECkNqRHopOXbMRgWJdzrebeSPQ
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzK6axAAAAAQAAAAEAAAAAAAAAAJqsZczHL0QpJ_ZBmICBSZsr0a7kpeaWsIHO7qz-TPvg
 
 TUNNELS
 forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.13): 1723140320628 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723140399513 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzKq3aAAAAAQAAAAEAAAAAAAAAAN0AVbL0oZbjzD-uhnZ8mKykhAI29e1VC96z_9ZD_tVc
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzK-IIAAAAAQAAAAEAAAAAAAAAAAXR0tvj30XcRj24vHBv49_cVbbVuF_WyzEsD1wk-cl_
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1723140402644 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzK-IIAAAAAQAAAAEAAAAAAAAAAAXR0tvj30XcRj24vHBv49_cVbbVuF_WyzEsD1wk-cl_
 
 TUNNELS
 forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.13): 1723140335804 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723140417778 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzKukmAAAAAQAAAAEAAAAAAAAAABfMttqO7WDruiErsWFSkKAVsu9ESrUll9IQY-PRlRrz
-
-TUNNELS
-forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1723140338930 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzKukmAAAAAQAAAAEAAAAAAAAAABfMttqO7WDruiErsWFSkKAVsu9ESrUll9IQY-PRlRrz
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzLClaAAAAAQAAAAEAAAAAAAAAAASgeNH34lkr3yy_T_IJ3T0acZ5RoDHeVyoI3BmFhAaF
 
 TUNNELS
 forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.13): 1723140354046 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723140432931 tunnel running, 1 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzKzBpAAAAAQAAAAEAAAAAAAAAACJ7TOW3bfPBD3IBFE9JPHI1derd3wSlF3wqhZoyYv-J
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzLGSRAAAAAQAAAAEAAAAAAAAAANLR4GcWruujK8R5MWDXq53I_HUSZwSJuVc9ZnBis4Vg
 
 TUNNELS
 forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723140448111 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzLJ_hAAAAAQAAAAEAAAAAAAAAAMajPg-Zzjcnk7CuvhL99FqxAaGzdP0VBM617fvFhEse
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1723140451249 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzLJ_hAAAAAQAAAAEAAAAAAAAAAMajPg-Zzjcnk7CuvhL99FqxAaGzdP0VBM617fvFhEse
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723140466344 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzLOcOAAAAAQAAAAEAAAAAAAAAAB_3QgeeeGqVDDSP3kMl3oEuxf8zSPnEiu50JDtvMbFc
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723140481509 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzLSJPAAAAAQAAAAEAAAAAAAAAAI9hXOUFuL-fML67xyTStQNDgSi-uhGP7YGyscOkGpQQ
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1723140484637 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzLSJPAAAAAQAAAAEAAAAAAAAAAI9hXOUFuL-fML67xyTStQNDgSi-uhGP7YGyscOkGpQQ
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723140499734 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzLWl8AAAAAQAAAAEAAAAAAAAAAO0jKc1IkwXOpOlEShuymw6ViR0Gpu8EWuNtwqn6f1su
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723140514899 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzLaTAAAAAAQAAAAEAAAAAAAAAANTRQQ3h_icnaoqQtrd_M12740-H-ZhDt1tR5l15q14w
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1723140518024 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzLaTAAAAAAQAAAAEAAAAAAAAAANTRQQ3h_icnaoqQtrd_M12740-H-ZhDt1tR5l15q14w
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723140533135 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzLev5AAAAAQAAAAEAAAAAAAAAAPH1VOB6ztL8ENwjv7f8Z-C5biGX3Bqd7Ml97mKsiBn6
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723140548326 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzLidPAAAAAQAAAAEAAAAAAAAAAJhhWsd53ggRXZXBodUHgxP2LQPsIiDICko3ELL47ClX
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723140563521 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzLmKqAAAAAQAAAAEAAAAAAAAAANsR9zVQJ75o2hqDBeCiCH1rBt4Zsz06x1CrcEUHFhZG
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1723140566642 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzLmKqAAAAAQAAAAEAAAAAAAAAANsR9zVQJ75o2hqDBeCiCH1rBt4Zsz06x1CrcEUHFhZG
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723140581748 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzLqniAAAAAQAAAAEAAAAAAAAAAGs5127fToSvRpYT8scu9bYRjCdZZdUtijSMmB7_cn9U
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723140596901 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzLuUWAAAAAQAAAAEAAAAAAAAAABovt_u0d26UoXSGIpwYQ4NedlWaZWq2PXmXfJ5f9L3G
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723140612082 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzLyBfAAAAAQAAAAEAAAAAAAAAALb7HwppthFHd1bz21FNhmxyepd5eJbWgj_kjnqcjw6v
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723140627255 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzL1ugAAAAAQAAAAEAAAAAAAAAAEoPLGHGRSK4IMvIOdY-NiVpGyLsvTitP5fW4hdyYPgS
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1723140630386 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzL1ugAAAAAQAAAAEAAAAAAAAAAEoPLGHGRSK4IMvIOdY-NiVpGyLsvTitP5fW4hdyYPgS
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723140645497 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzL6LqAAAAAQAAAAEAAAAAAAAAABKckn9R8ZEX2TRmMvRLMMElnsLcwk76QIF6pdzLhwSy
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723140660671 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzL94oAAAAAQAAAAEAAAAAAAAAAOAwyPAqUmwNpm8_qlTg6BtAGJeT-HSgiy83_L5t04go
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723140675837 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzMBlkAAAAAQAAAAEAAAAAAAAAAL5HPJwrq8lijlpHtIg-MIg0e14jGYUfTXC_6mAmmtwO
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1723140678965 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzMBlkAAAAAQAAAAEAAAAAAAAAAL5HPJwrq8lijlpHtIg-MIg0e14jGYUfTXC_6mAmmtwO
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723140694085 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzMGC_AAAAAQAAAAEAAAAAAAAAANpeVrMkY9_eV-uL3YZCzsAnqKzWZVD4yf5g8N4vmEh-
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723140709260 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzMJv2AAAAAQAAAAEAAAAAAAAAAPhGwNfVaM0ZC8oMebSlwAdcPx9Iv4s0cZkHKFVfPXzA
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1723140712378 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzMJv2AAAAAQAAAAEAAAAAAAAAAPhGwNfVaM0ZC8oMebSlwAdcPx9Iv4s0cZkHKFVfPXzA
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723140727501 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzMOM5AAAAAQAAAAEAAAAAAAAAAKdBRFpd-GuGIaIrL3HQyYexp5LxMrZ2a-_fDgRVrq_H
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723140742658 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzMR5xAAAAAQAAAAEAAAAAAAAAAFEzTUjoZdzI3BNRDeRCfwWJkmFFIotxMk0BRSg13O3Y
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723140757822 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzMVmvAAAAAQAAAAEAAAAAAAAAAHLFf96CUHhDGWVdiiChe5k9mYxp0VAVdOtrzvI8czIg
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1723140760960 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzMVmvAAAAAQAAAAEAAAAAAAAAAHLFf96CUHhDGWVdiiChe5k9mYxp0VAVdOtrzvI8czIg
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723140776067 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzMaDtAAAAAQAAAAEAAAAAAAAAADdbwzvKtUj00eN4kcoWzXGu3jDgw33DmH_krmGUQuNZ
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723140791224 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzMdwnAAAAAQAAAAEAAAAAAAAAAM3bYWTuO5LB97rDtg7-3oHCfI50wP-QxN6fv3xcA5za
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723140806398 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzMheJAAAAAQAAAAEAAAAAAAAAAPTwXfJM7LiW2fDQO8Ad9j-1chlJAm5Av-bT0LCCs_Mv
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1723140809545 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzMheJAAAAAQAAAAEAAAAAAAAAAPTwXfJM7LiW2fDQO8Ad9j-1chlJAm5Av-bT0LCCs_Mv
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723140824686 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzMl7cAAAAAQAAAAEAAAAAAAAAAGZX1WXqFwrt52DNAv1PkNXMXujQuaFSlFRjbHwtVAHQ
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723140839853 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzMpolAAAAAQAAAAEAAAAAAAAAAO0Rrjlvx3jSU7_sxQiGsq-b4lOl1DYzAU9zqmlqi0CV
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723140855019 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzMtVXAAAAAQAAAAEAAAAAAAAAAALTIgK1MhPPueXLSTHTSqRBPkHDtPz6UdfThDY6JNGP
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723140870181 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzMxCcAAAAAQAAAAEAAAAAAAAAAP5ObRgOzHS3FG5TeKHUgVvOVgMbWs7Kfq7x1N7z7vM5
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1723140873305 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzMxCcAAAAAQAAAAEAAAAAAAAAAP5ObRgOzHS3FG5TeKHUgVvOVgMbWs7Kfq7x1N7z7vM5
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723140888410 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzM1fHAAAAAQAAAAEAAAAAAAAAAKrFE1fUGVQQaKHCoexNPUpV98M8XW0H_jO-1cJHsBWv
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723140903582 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzM5MYAAAAAQAAAAEAAAAAAAAAAENx-wqYAUg2GcfvrUdk3VKgzwq2vjSOONPzNyV0Utwx
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723140918766 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzM85lAAAAAQAAAAEAAAAAAAAAAIwxy3SyACKIEj85WnomHw56GC6oB0emMOwzHhmIFjxj
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1723140921894 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzM85lAAAAAQAAAAEAAAAAAAAAAIwxy3SyACKIEj85WnomHw56GC6oB0emMOwzHhmIFjxj
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723140937047 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzNBXDAAAAAQAAAAEAAAAAAAAAALYiY9QRZO8UUmxkuOBIJdvysw0_T1MSmNvm0z7eO9XQ
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723140952206 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzNFD8AAAAAQAAAAEAAAAAAAAAANR6Tff5w2fk6Dr1ID2HrakLFCcumrnPzVdjOCkSB7tq
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1723140955325 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzNFD8AAAAAQAAAAEAAAAAAAAAANR6Tff5w2fk6Dr1ID2HrakLFCcumrnPzVdjOCkSB7tq
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723140970446 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzNJg-AAAAAQAAAAEAAAAAAAAAALAYUvran-ND25rZOEAyEyv3Mbqt5zGqS35iB0pltqdB
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+orward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1723140873548 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzMxGGAAAAAQAAAAEAAAAAAAAAAKd_g8kR--_0OZTD_ncoipzaUNSseOMZ_KK6BIkEnzQ4
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723140888646 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzM1i4AAAAAQAAAAEAAAAAAAAAAKjIHkimCRdJ2Ouyk52GyAi9o4-9lgwJ-kMJY29SiTvD
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723140903810 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzM5P1AAAAAQAAAAEAAAAAAAAAAOAf7nfBy5FcAN6EakzKGtkHoSd6733znf0sK8K9qLws
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723140918982 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzM88yAAAAAQAAAAEAAAAAAAAAAEWRhrrLY4ViD2SADh7kjvdzCab39c4lRbfFKVM2zjeD
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1723140922096 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzM88yAAAAAQAAAAEAAAAAAAAAAEWRhrrLY4ViD2SADh7kjvdzCab39c4lRbfFKVM2zjeD
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723140937212 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzNBZwAAAAAQAAAAEAAAAAAAAAAOI6mh9Nfv39Dz3k4zMS8OB-W_Mz4wJD35wJKoojN73A
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723140952390 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzNFG2AAAAAQAAAAEAAAAAAAAAAJofuIzkfM9rsK3aPl7RpZd90hvl7xy9A0aaviFzs0jX
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.13): 1723140967572 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzNI0CAAAAAQAAAAEAAAAAAAAAAGwh3XxCzstl2qwdCr2FoV1UEdCJzizl-3foFU3gpnE1
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1723140970684 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAr7AAAAAZEzNI0CAAAAAQAAAAEAAAAAAAAAAGwh3XxCzstl2qwdCr2FoV1UEdCJzizl-3foFU3gpnE1
+
+TUNNELS
+forward-regression.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
